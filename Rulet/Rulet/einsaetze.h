@@ -6,5 +6,6 @@ public:
 	~einsaetze();
 
 private:
+	int einsatz;
 
 };
