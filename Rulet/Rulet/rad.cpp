@@ -1,13 +1,5 @@
+#include"rad.h"
 
-class  RAD
-{
-public:
-	 RAD();
-	~ RAD();
-
-private:
-
-};
 
  RAD:: RAD()
 {

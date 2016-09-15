@@ -1,13 +1,5 @@
+#include"gui.h"
 
-class GUI
-{
-public:
-	GUI();
-	~GUI();
-
-private:
-
-};
 
 GUI::GUI()
 {

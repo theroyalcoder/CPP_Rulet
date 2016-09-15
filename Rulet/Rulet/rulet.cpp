@@ -1,13 +1,4 @@
-
-class Rulet
-{
-public:
-	Rulet();
-	~Rulet();
-
-private:
-
-};
+#include"rulet.h"
 
 Rulet::Rulet()
 {
