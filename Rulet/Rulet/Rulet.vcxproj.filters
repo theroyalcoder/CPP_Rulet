@@ -30,6 +30,9 @@
     <ClCompile Include="einsaetze.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="spieler.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gui.h">
@@ -42,6 +45,9 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="einsaetze.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="spieler.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
