@@ -11,7 +11,7 @@ public:
 	~GUI();
 
 private:
-	int fenster_hoehe;
-	int fenster_breite;
+	int fenster_hoehe();
+	int fenster_breite();
 	HWND hWnd;
 };

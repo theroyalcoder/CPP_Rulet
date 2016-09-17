@@ -110,7 +110,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="einsaetze.cpp" />
     <ClCompile Include="gui.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="rad.cpp" />
@@ -118,7 +117,6 @@
     <ClCompile Include="spieler.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="einsaetze.h" />
     <ClInclude Include="gui.h" />
     <ClInclude Include="rad.h" />
     <ClInclude Include="rulet.h" />
