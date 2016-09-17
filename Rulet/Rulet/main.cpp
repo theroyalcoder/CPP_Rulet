@@ -1,16 +1,11 @@
 #include<iostream>
-#include"spieler.h"
-#include"rulet.h"
-#include"rad.h"
+#include"rulet.h" // Game engine
 
 using namespace std;
 
 int main() {
 	
 
-
-	
-	
 	cin.get();
 
 }

@@ -1,3 +1,4 @@
+#include <iostream>
 #include "spieler.h"
 
 
@@ -13,7 +14,15 @@ spieler::~spieler()
 
 void spieler::_set_einsatz(int _einsatz)
 {
-	einsatz = _einsatz;
+	if (!_einsatz > _get_vermoegen())
+	{
+		einsatz = _einsatz;
+	}
+	else
+	{
+		einsatz = 0; // Nicht genügend Vermögen
+	}
+	
 }
 
 int spieler::_get_einsatz()

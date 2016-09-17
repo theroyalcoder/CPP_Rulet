@@ -1,4 +1,7 @@
 #include"rulet.h"
+#include"spieler.h"
+#include"rad.h"
+
 
 Rulet::Rulet()
 {
